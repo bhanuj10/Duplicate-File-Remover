@@ -1,7 +1,3 @@
-Here’s the updated **README.md** file with instructions and descriptions for both **`duplicate_remover.py`** (single-threaded) and **`duplicate_remover_multiprocessing.py`** (multi-threaded):  
-
----
-
 # **Duplicate File Remover (Per Folder Basis)**  
 
 ## **Description**  
